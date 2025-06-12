@@ -432,7 +432,7 @@ Access comprehensive medicine information and usage guidelines
 <td align="center" width="33%">
 
 ### ⚙️ **Backend**
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="100" alt="Express.js">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="100" alt="Express.js">
 
 [![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000)](https://render.com/)
