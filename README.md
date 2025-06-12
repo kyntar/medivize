@@ -410,7 +410,7 @@ Access comprehensive medicine information and usage guidelines
 | 📈 **Analytics Dashboard** | Track usage patterns and identification accuracy | 🚧 In Development |
 | 🗣️ **Voice Assistant** | Voice-guided medicine identification | 🚧 Coming Soon |
 | 🌍 **Multi-language** | Support for Indonesian, English, and local languages | ✅ Available |
-| 📱 **Mobile App** | Native iOS and Android applications | 🚧 Planned |
+| 📱 **Mobile App** | Native iOS and Android applications | ✅ Available |
 | 🏥 **Hospital Integration** | API for healthcare management systems | 🚧 In Development |
 
 </div>
