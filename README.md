@@ -4,18 +4,24 @@
 
 **🚀 Revolutionizing Medicine Identification Through AI Technology**
 
-[![Made with React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Powered by Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![AI Model](https://img.shields.io/badge/YOLOv11-AI%20Detection-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/ultralytics/ultralytics)
-[![PWA Ready](https://img.shields.io/badge/PWA-Ready-4285F4?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI-Powered+Medicine+Recognition;Smart+Healthcare+Technology;YOLOv11+Object+Detection;Progressive+Web+Application" alt="Typing SVG" />
+
+[![Made with React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)](https://reactjs.org/)
+[![Powered by Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)](https://nodejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000)](https://tailwindcss.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=333333)](https://expressjs.com/)
+[![AI Model](https://img.shields.io/badge/YOLOv11-AI%20Detection-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)](https://github.com/ultralytics/ultralytics)
+[![PWA Ready](https://img.shields.io/badge/PWA-Ready-4285F4?style=for-the-badge&logo=pwa&logoColor=white&labelColor=000000)](https://web.dev/progressive-web-apps/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
 ## 🎯 **About MediVize**
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 **MediVize** adalah aplikasi berbasis kecerdasan buatan (AI) yang dirancang untuk membantu 
 masyarakat dalam mengenali dan memahami obat melalui foto kemasan. Permasalahan 
@@ -26,20 +32,63 @@ yang mengonsumsi obat secara mandiri.
 
 > **💡 Visi Kami:** Menginspirasi perubahan di dunia kesehatan dengan AI yang mudah diakses, karena setiap orang berhak mendapatkan informasi yang akurat, cepat, dan bermakna.
 
+<br clear="right"/>
+
 ---
 
 ## 🌐 **Quick Access Links**
 
 <div align="center">
 
-| Resource | Link |
-|----------|------|
-| 🚀 **Live Demo** | [https://medivize.netlify.app/](https://medivize.netlify.app/) |
-| 💻 **GitHub Repository** | [https://github.com/kyntar/medivize](https://github.com/kyntar/medivize) |
-| 📊 **Dataset** | [Mobile-Captured Pharmaceutical Medication Packages - Mendeley Data](https://data.mendeley.com/datasets/3h5xjvjjgj/1) |
-| 🎥 **Video Presentasi** | [https://youtu.be/wLT9cHba3lA](https://youtu.be/wLT9cHba3lA) |
-| 📖 **Tutorial Penggunaan** | [https://youtu.be/_wBaDtBpS0](https://youtu.be/_wBaDtBpS0) |
-| 🎨 **Slide Presentasi** | [Canva Presentation](https://www.canva.com/design/DAGp8oUa8WQ/Hqu9B6jEVQumcnFz1Rbx4Q/edit?continue_in_browser=true) |
+<table>
+<tr>
+<td align="center" width="20%">
+
+**🚀 Live Demo**
+
+<a href="https://medivize.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐-Demo-00D4AA?style=for-the-badge&labelColor=000000" alt="Live Demo">
+</a>
+
+</td>
+<td align="center" width="20%">
+
+**💻 GitHub**
+
+<a href="https://github.com/kyntar/medivize" target="_blank">
+<img src="https://img.shields.io/badge/📁-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Repository">
+</a>
+
+</td>
+<td align="center" width="20%">
+
+**📊 Dataset**
+
+<a href="https://data.mendeley.com/datasets/3h5xjvjjgj/1" target="_blank">
+<img src="https://img.shields.io/badge/📊-Dataset-FF6B35?style=for-the-badge&labelColor=000000" alt="Dataset">
+</a>
+
+</td>
+<td align="center" width="20%">
+
+**🎥 Presentation**
+
+<a href="https://youtu.be/wLT9cHba3lA" target="_blank">
+<img src="https://img.shields.io/badge/🎬-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="Video Presentation">
+</a>
+
+</td>
+<td align="center" width="20%">
+
+**📖 Tutorial**
+
+<a href="https://youtu.be/_wBaDtBpS0" target="_blank">
+<img src="https://img.shields.io/badge/📖-Tutorial-4285F4?style=for-the-badge&labelColor=000000" alt="Tutorial">
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -47,23 +96,35 @@ yang mengonsumsi obat secara mandiri.
 
 ## ✨ **Key Features**
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
+
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 📷 **Smart Image Recognition**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" height="100">
+
 Upload atau ambil foto kemasan obat langsung dari kamera untuk identifikasi instan
 
 </td>
 <td align="center" width="33%">
 
 ### 🧠 **AI-Powered Detection**
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100">
+
 Teknologi YOLOv11 terdepan untuk deteksi dan klasifikasi obat dengan akurasi tinggi
 
 </td>
 <td align="center" width="33%">
 
 ### 📱 **PWA Experience**
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100">
+
 Progressive Web App yang dapat diinstall dan berjalan offline di semua device
 
 </td>
@@ -72,18 +133,24 @@ Progressive Web App yang dapat diinstall dan berjalan offline di semua device
 <td align="center" width="33%">
 
 ### 💾 **Smart Database**
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" height="100">
+
 Sistem penyimpanan dan retrieval data obat yang cepat dan efisien
 
 </td>
 <td align="center" width="33%">
 
 ### 🌐 **Cross-Platform**
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" height="100">
+
 Kompatibel dengan desktop, tablet, dan mobile browsers
 
 </td>
 <td align="center" width="33%">
 
 ### ⚡ **Real-time Processing**
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="100" height="100">
+
 Pemrosesan gambar dan identifikasi obat dalam hitungan detik
 
 </td>
@@ -94,29 +161,50 @@ Pemrosesan gambar dan identifikasi obat dalam hitungan detik
 
 ## 🛠️ **Tech Stack**
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
 ### 🎨 **Frontend Architecture**
-```
+```javascript
 React.js 18.x          → Modern UI Library
 TailwindCSS 3.x        → Utility-first CSS Framework  
 React Router           → Client-side Routing
 PWA Technologies       → Service Workers & Web Manifest
 ```
 
+</td>
+<td width="33%" align="center">
+
 ### ⚙️ **Backend Infrastructure**
-```
+```javascript
 Node.js + Express.js   → REST API Server
 MySQL Database         → Relational Data Storage
 Multer Middleware      → File Upload Handling
 ```
 
+</td>
+<td width="33%" align="center">
+
 ### 🤖 **AI/ML Pipeline**
-```
+```python
 YOLOv11 Object Detection → Medicine Package Recognition
 NumPy Data Processing    → Image Preprocessing
 Data Augmentation        → Dataset Enhancement
 TensorFlow.js Conversion → Web-optimized Model Deployment
-Model Optimization       → Performance & Accuracy Tuning
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -179,6 +267,12 @@ medivize/
 ---
 
 ## 🚀 **Quick Start Guide**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 ### 📋 **Prerequisites**
 - Node.js 18.x or higher
@@ -262,20 +356,50 @@ SOURCE database/migrations.sql;
 
 ### 🎯 **Simple 4-Step Process**
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+
 </div>
 
-| Step | Action | Description |
-|------|--------|-------------|
-| **1** | 📷 **Capture/Upload** | Take a photo or upload an image of medicine packaging |
-| **2** | 🔄 **AI Processing** | Our YOLOv11 model analyzes the image automatically |
-| **3** | 📊 **View Results** | Get instant identification results with confidence scores |
-| **4** | 📖 **Explore Details** | Access comprehensive medicine information and usage guidelines |
+<table>
+<tr>
+<td align="center" width="25%">
+
+**📷 Step 1**
+### Capture/Upload
+Take a photo or upload an image of medicine packaging
+
+</td>
+<td align="center" width="25%">
+
+**🔄 Step 2**
+### AI Processing
+Our YOLOv11 model analyzes the image automatically
+
+</td>
+<td align="center" width="25%">
+
+**📊 Step 3**
+### View Results
+Get instant identification results with confidence scores
+
+</td>
+<td align="center" width="25%">
+
+**📖 Step 4**
+### Explore Details
+Access comprehensive medicine information and usage guidelines
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌟 **Advanced Features**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
 | Feature | Description | Status |
 |---------|-------------|---------|
@@ -297,22 +421,28 @@ SOURCE database/migrations.sql;
 <td align="center" width="33%">
 
 ### 🌐 **Frontend**
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://medivize.netlify.app/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://medivize.netlify.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333333)](https://vercel.com/)
 
 </td>
 <td align="center" width="33%">
 
 ### ⚙️ **Backend**
-[![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+[![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000)](https://render.com/)
 
 </td>
 <td align="center" width="33%">
 
 ### 🗄️ **Database**
-[![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://planetscale.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+[![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=333333)](https://planetscale.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://mysql.com/)
 
 </td>
 </tr>
@@ -320,81 +450,137 @@ SOURCE database/migrations.sql;
 
 ---
 
-## 👥 **Our Amazing Team**
+## 👥 **Meet Our Amazing Team**
 
 <div align="center">
 
-**🎓 Coding Camp 2025 powered by DBS Foundation - Capstone Project Team CC25-CF316**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Coding+Camp+2025+Team;DBS+Foundation+powered;Capstone+Project+CC25-CF316" alt="Team Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb2-de86-4dd6-9b58-5a8b8109d617.gif" width="200">
 
 </div>
 
+---
+
+### 🤖 **Machine Learning Specialists**
+
+<div align="center">
+
 <table>
 <tr>
-<td align="center">
-<strong>🤖 Machine Learning</strong>
-</td>
-<td align="center">
-<strong>🎨 Frontend Development</strong>
-</td>
-<td align="center">
-<strong>⚙️ Backend Development</strong>
-</td>
-</tr>
-<tr>
-<td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
 **MC114D5X1963**  
 👩‍💻 **Emalia Putri Lestari Telaumbanua**  
 🏫 Institut Teknologi Del  
-🧠 *Machine Learning*  
-✅ *Aktif*
+🧠 *Machine Learning Engineer*  
+✅ *Active Contributor*
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
 **MC114D5Y1977**  
 👨‍💻 **Marihot Tambunan**  
 🏫 Institut Teknologi Del  
-🤖 *Machine Learning*  
-✅ *Aktif*
+🤖 *AI Model Developer*  
+✅ *Active Contributor*
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
 **MC114D5Y1978**  
 👨‍💻 **Handika Sukri Husni Harahap**  
 🏫 Institut Teknologi Del  
-📊 *Machine Learning*  
-✅ *Aktif*
-
-</td>
-<td align="center">
-
-**FC189D5X0794**  
-👩‍💻 **Keysa Maqfirah**  
-🏫 Universitas Bengkulu  
-🎨 *Frontend Development*  
-✅ *Aktif*
-
-</td>
-<td align="center">
-
-**FC189D5X0808**  
-👩‍💻 **Federika Butar Butar**  
-🏫 Universitas Bengkulu  
-⚙️ *Backend Development*  
-✅ *Aktif*
-    
-**FC012D5Y1245**  
-👨‍💻 **Kyntar Barra Langit Lubis**  
-🏫 Universitas Telkom  
-🔧 *Backend Development*  
-✅ *Aktif*
+📊 *Data Science Specialist*  
+✅ *Active Contributor*
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+### 🎨 **Frontend Development**
+
 <div align="center">
 
-**🌟 All Team Members: Active & Contributing**
+<table>
+<tr>
+<td align="center" width="100%">
 
-[![Team Status](https://img.shields.io/badge/Team%20Status-All%20Active-success?style=for-the-badge)](https://github.com/kyntar/medivize)
-[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
+
+**FC189D5X0794**  
+👩‍💻 **Keysa Maqfirah**  
+🏫 Universitas Bengkulu  
+🎨 *Frontend Developer & UI/UX Designer*  
+✨ *React.js & TailwindCSS Expert*  
+✅ *Active Contributor*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### ⚙️ **Backend Development Team**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**FC189D5X0808**  
+👩‍💻 **Federika Butar Butar**  
+🏫 Universitas Bengkulu  
+⚙️ *Backend Developer*  
+🛠️ *API & Database Specialist*  
+✅ *Active Contributor*
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**FC012D5Y1245**  
+👨‍💻 **Kyntar Barra Langit Lubis**  
+🏫 Universitas Telkom  
+🔧 *Full-Stack Developer*  
+🚀 *DevOps & Deployment Lead*  
+✅ *Active Contributor*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Team Status**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceeb2-de86-4dd6-9b58-5a8b8109d617.gif" width="150">
+
+[![Team Status](https://img.shields.io/badge/Team%20Status-All%20Active-success?style=for-the-badge&labelColor=000000)](https://github.com/kyntar/medivize)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&labelColor=000000)](CONTRIBUTING.md)
+[![Collaboration](https://img.shields.io/badge/Collaboration-Outstanding-gold?style=for-the-badge&labelColor=000000)](https://github.com/kyntar/medivize)
+
+**🔥 All 6 Team Members are Actively Contributing! 🔥**
 
 </div>
 
@@ -402,13 +588,15 @@ SOURCE database/migrations.sql;
 
 ## 🤝 **Contributing**
 
-We welcome contributions from the community! Here's how you can help:
-
 <div align="center">
 
-[![Issues](https://img.shields.io/github/issues/kyntar/medivize?style=for-the-badge)](https://github.com/kyntar/medivize/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/kyntar/medivize?style=for-the-badge)](https://github.com/kyntar/medivize/pulls)
-[![Contributors](https://img.shields.io/github/contributors/kyntar/medivize?style=for-the-badge)](https://github.com/kyntar/medivize/graphs/contributors)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+We welcome contributions from the community! Here's how you can help:
+
+[![Issues](https://img.shields.io/github/issues/kyntar/medivize?style=for-the-badge&labelColor=000000)](https://github.com/kyntar/medivize/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/kyntar/medivize?style=for-the-badge&labelColor=000000)](https://github.com/kyntar/medivize/pulls)
+[![Contributors](https://img.shields.io/github/contributors/kyntar/medivize?style=for-the-badge&labelColor=000000)](https://github.com/kyntar/medivize/graphs/contributors)
 
 </div>
 
@@ -426,15 +614,23 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/kyntar/medivize?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kyntar/medivize?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kyntar/medivize?style=for-the-badge)
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/kyntar/medivize?style=for-the-badge&labelColor=000000)
+![GitHub last commit](https://img.shields.io/github/last-commit/kyntar/medivize?style=for-the-badge&labelColor=000000)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kyntar/medivize?style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
 ## 🛡️ **Security & Privacy**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="100">
+
+</div>
 
 - 🔒 **Secure Image Processing**: All uploaded images are processed securely and deleted after analysis
 - 🔐 **Data Encryption**: User data and API communications are encrypted
@@ -446,6 +642,8 @@ We welcome contributions from the community! Here's how you can help:
 ## 🙏 **Acknowledgments**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 **Special thanks to:**
 
@@ -461,19 +659,25 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 💫 **Join the Revolution**
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+
 **MediVize** isn't just a project—it's a step toward making healthcare technology accessible to everyone. Together, we're building a smarter, safer future for medicine identification.
 
 ### 🌟 **Show Your Support**
 
 If you find MediVize helpful, please consider:
 
-[![Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow?style=for-the-badge&logo=github)](https://github.com/kyntar/medivize)
-[![Fork this repo](https://img.shields.io/badge/🍴-Fork%20this%20repo-blue?style=for-the-badge&logo=github)](https://github.com/kyntar/medivize/fork)
-[![Share on Twitter](https://img.shields.io/badge/🐦-Share%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20MediVize%20-%20AI-Powered%20Medicine%20Identifier!&url=https://github.com/kyntar/medivize)
+[![Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/kyntar/medivize)
+[![Fork this repo](https://img.shields.io/badge/🍴-Fork%20this%20repo-blue?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/kyntar/medivize/fork)
+[![Share on Twitter](https://img.shields.io/badge/🐦-Share%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/intent/tweet?text=Check%20out%20MediVize%20-%20AI-Powered%20Medicine%20Identifier!&url=https://github.com/kyntar/medivize)
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 **Made with ❤️ by the MediVize Team**  
 *Empowering Healthcare Through AI Innovation*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+MediVize!;Star+⭐+if+you+found+this+helpful;Let's+revolutionize+healthcare+together!" alt="Thank You Typing SVG" />
 
 </div>
