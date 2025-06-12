@@ -173,33 +173,36 @@ Pemrosesan gambar dan identifikasi obat dalam hitungan detik
 <tr>
 <td width="33%" align="center">
 
-### 🎨 **Frontend Architecture**
-```javascript
-React.js 18.x          → Modern UI Library
-TailwindCSS 3.x        → Utility-first CSS Framework  
-React Router           → Client-side Routing
-PWA Technologies       → Service Workers & Web Manifest
-```
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ **Backend Infrastructure**
-```javascript
-Node.js + Express.js   → REST API Server
-MySQL Database         → Relational Data Storage
-Multer Middleware      → File Upload Handling
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🤖 **AI/ML Pipeline**
+### 🤖 **Machine Learning Pipeline**
 ```python
 YOLOv11 Object Detection → Medicine Package Recognition
 NumPy Data Processing    → Image Preprocessing
 Data Augmentation        → Dataset Enhancement
 TensorFlow.js Conversion → Web-optimized Model Deployment
+Model Evaluation         → Performance Optimization
+```
+
+</td>
+<td width="33%" align="center">
+
+### ⚛️ **Frontend Architecture**
+```javascript
+React.js 18.x          → Modern UI Library
+TailwindCSS 3.x        → Utility-first CSS Framework  
+React Router           → Client-side Routing
+PWA Technologies       → Service Workers & Web Manifest
+Progressive Web App    → Cross-platform Experience
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🟢 **Backend Infrastructure**
+```javascript
+Node.js + Express.js   → REST API Server
+MySQL Database         → Relational Data Storage
+Multer Middleware      → File Upload Handling
+RESTful API Design     → Scalable Architecture
 ```
 
 </td>
