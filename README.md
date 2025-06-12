@@ -324,7 +324,7 @@ SOURCE database/migrations.sql;
 
 <div align="center">
 
-**🎓 Bangkit Academy 2024 - Capstone Project Team**
+**🎓 Coding Camp 2025 powered by DBS Foundation- Capstone Project Team CC25-CF316**
 
 </div>
 
