@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/e05a6e06-abbc-4c8e-8311-6d317fb69466)# 💊 MediVize – AI-Powered Medicine Identifier
-
+# 💊 MediVize – AI-Powered Medicine Identifier
 <div align="center">
 
 **🚀 Revolutionizing Medicine Identification Through AI Technology**
@@ -424,7 +423,7 @@ Access comprehensive medicine information and usage guidelines
 <td align="center" width="33%">
 
 ### 🌐 **Frontend**
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original-wordmark.svg" width="100" alt="Netlify">
 
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)](https://medivize.netlify.app/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=333333)](https://vercel.com/)
@@ -433,7 +432,7 @@ Access comprehensive medicine information and usage guidelines
 <td align="center" width="33%">
 
 ### ⚙️ **Backend**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="100" alt="Express.js">
 
 [![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000)](https://render.com/)
@@ -442,7 +441,7 @@ Access comprehensive medicine information and usage guidelines
 <td align="center" width="33%">
 
 ### 🗄️ **Database**
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" alt="MySQL">
 
 [![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=333333)](https://planetscale.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://mysql.com/)
