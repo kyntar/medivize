@@ -324,20 +324,20 @@ SOURCE database/migrations.sql;
 
 <div align="center">
 
-**🎓 Coding Camp 2025 powered by DBS Foundation- Capstone Project Team CC25-CF316**
+**🎓 Coding Camp 2025 powered by DBS Foundation - Capstone Project Team CC25-CF316**
 
 </div>
 
 <table>
 <tr>
 <td align="center">
-<strong>🤖 Machine Learning </strong>
+<strong>🤖 Machine Learning</strong>
 </td>
 <td align="center">
-<strong>📱 Frontend Development </strong>
+<strong>🎨 Frontend Development</strong>
 </td>
 <td align="center">
-<strong>📱 Backend Development</strong>
+<strong>⚙️ Backend Development</strong>
 </td>
 </tr>
 <tr>
@@ -346,35 +346,44 @@ SOURCE database/migrations.sql;
 **MC114D5X1963**  
 👩‍💻 **Emalia Putri Lestari Telaumbanua**  
 🏫 Institut Teknologi Del  
-🔬 *Machine Learning*
+🧠 *Machine Learning*  
+✅ *Aktif*
 
 **MC114D5Y1977**  
 👨‍💻 **Marihot Tambunan**  
 🏫 Institut Teknologi Del  
-🧠 *Machine Learning*
+🤖 *Machine Learning*  
+✅ *Aktif*
 
 **MC114D5Y1978**  
 👨‍💻 **Handika Sukri Husni Harahap**  
 🏫 Institut Teknologi Del  
-📊 *Machine Learning*
+📊 *Machine Learning*  
+✅ *Aktif*
+
 </td>
+<td align="center">
 
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
 🏫 Universitas Bengkulu  
-☁️ *Frontend Development*
+🎨 *Frontend Development*  
+✅ *Aktif*
 
-<td>
-    
+</td>
+<td align="center">
+
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
-⚙️ *Backend Development*
+⚙️ *Backend Development*  
+✅ *Aktif*
     
 **FC012D5Y1245**  
 👨‍💻 **Kyntar Barra Langit Lubis**  
 🏫 Universitas Telkom  
-📱 *Backend Development*
+🔧 *Backend Development*  
+✅ *Aktif*
 
 </td>
 </tr>
@@ -443,7 +452,6 @@ We welcome contributions from the community! Here's how you can help:
 🎓 **Coding Camp 2025 powered by DBS Foundation** - For providing the platform and mentorship  
 🤖 **Google Cloud Platform** - For cloud infrastructure support  
 🧠 **TensorFlow Team** - For the amazing ML framework  
-
 
 </div>
 
