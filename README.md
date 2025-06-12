@@ -441,7 +441,7 @@ Access comprehensive medicine information and usage guidelines
 <td align="center" width="33%">
 
 ### 🗄️ **Database**
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" width="100" alt="Render">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" alt="MySQL">
 
 [![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=333333)](https://planetscale.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://mysql.com/)
