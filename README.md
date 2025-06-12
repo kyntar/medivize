@@ -75,7 +75,12 @@ CORS
 Serverless HTTP (opsional untuk deployment serverless)
 
 👨‍💻 Pengembang
-Nama: Your Name
+1. MC114D5X1963 - Emalia Putri Lestari Telaumbanua - Institut Teknologi Del - Aktif 
+2. MC114D5Y1977 - Marihot Tambunan - Institut Teknologi Del - Aktif 
+3. MC114D5Y1978 - Handika Sukri Husni Harahap - Institut Teknologi Del - Aktif 
+4. FC189D5X0794 - Keysa Maqfirah - Universitas Bengkulu - Aktif 
+5. FC189D5X0808 - Federika Butar Butar - Universitas Bengkulu - Aktif 
+6. FC012D5Y1245 - Kyntar Barra Langit Lubis - Universitas Telkom- Aktif 
 
 Lisensi: MIT
 
