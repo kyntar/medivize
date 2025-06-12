@@ -16,9 +16,14 @@
 
 ## 🎯 **About MediVize**
 
-**MediVize** adalah aplikasi web cerdas berbasis AI yang memungkinkan pengguna untuk **mengenali obat-obatan melalui gambar kemasan** dengan akurasi tinggi. Aplikasi ini dirancang untuk membantu masyarakat umum, apoteker, dan tenaga medis dalam mengidentifikasi obat secara cepat, akurat, dan mudah.
+**MediVize** adalah aplikasi berbasis kecerdasan buatan (AI) yang dirancang untuk membantu 
+masyarakat dalam mengenali dan memahami obat melalui foto kemasan. Permasalahan 
+yang diangkat adalah maraknya kesalahan penggunaan obat akibat kemasan yang mirip 
+dan keterbatasan informasi yang tersedia secara cepat. Hal ini terjadi tidak hanya pada 
+lansia, tetapi juga pada kalangan umum seperti pelajar, pekerja, dan masyarakat awam 
+yang mengonsumsi obat secara mandiri. 
 
-> **💡 Visi Kami:** Menjembatani kesenjangan teknologi dalam dunia kesehatan dengan solusi AI yang accessible dan user-friendly.
+> **💡 Visi Kami:** Menginspirasi perubahan di dunia kesehatan dengan AI yang mudah diakses, karena setiap orang berhak mendapatkan informasi yang akurat, cepat, dan bermakna.
 
 ---
 
