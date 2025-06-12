@@ -1,7 +1,4 @@
-📝 Draft README – MEDIVIZE (Backend)
-markdown
-Copy
-Edit
+📝 Draft README – MEDIVIZE 
 # MEDIVIZE – Backend API
 
 *MEDIVIZE* adalah sistem informasi obat berbasis web yang menyediakan fitur klasifikasi obat melalui gambar, pencarian informasi obat, dan pengelolaan data obat. Proyek ini dikembangkan menggunakan Node.js dan Express sebagai backend API, dengan integrasi ke model machine learning eksternal.
