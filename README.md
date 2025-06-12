@@ -99,7 +99,6 @@ Pemrosesan gambar dan identifikasi obat dalam hitungan detik
 React.js 18.x          → Modern UI Library
 TailwindCSS 3.x        → Utility-first CSS Framework  
 React Router           → Client-side Routing
-TensorFlow.js          → Browser-based ML Inference
 PWA Technologies       → Service Workers & Web Manifest
 ```
 
@@ -332,13 +331,13 @@ SOURCE database/migrations.sql;
 <table>
 <tr>
 <td align="center">
-<strong>🤖 Machine Learning Path</strong>
+<strong>🤖 Machine Learning </strong>
 </td>
 <td align="center">
-<strong>☁️ Cloud Computing Path</strong>
+<strong>📱 Frontend Development </strong>
 </td>
 <td align="center">
-<strong>📱 Mobile Development Path</strong>
+<strong>📱 Backend Development</strong>
 </td>
 </tr>
 <tr>
@@ -367,14 +366,13 @@ SOURCE database/migrations.sql;
 🏫 Universitas Bengkulu  
 ☁️ *Frontend Development*
 
+</td>
+<td>
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
 ⚙️ *Backend Development*
-
-</td>
-<td>
-
+    
 **FC012D5Y1245**  
 👨‍💻 **Kyntar Barra Langit Lubis**  
 🏫 Universitas Telkom  
@@ -444,10 +442,10 @@ We welcome contributions from the community! Here's how you can help:
 
 **Special thanks to:**
 
-🎓 **Bangkit Academy 2024** - For providing the platform and mentorship  
+🎓 **Coding Camp 2025 powered by DBS Foundation** - For providing the platform and mentorship  
 🤖 **Google Cloud Platform** - For cloud infrastructure support  
 🧠 **TensorFlow Team** - For the amazing ML framework  
-🚀 **Open Source Community** - For the incredible tools and libraries  
+
 
 </div>
 
