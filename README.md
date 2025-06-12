@@ -631,7 +631,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/kyntar/medivize?style=for-the-badge&labelColor=000000)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kyntar/medivize?style=for-the-badge&labelColor=000000)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kyntar/medivize?style=for-the-badge&labelColor=000000)
+
 
 </div>
 
