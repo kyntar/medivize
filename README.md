@@ -55,7 +55,8 @@ yang mengonsumsi obat secara mandiri.
 **💻 GitHub**
 
 <a href="https://github.com/kyntar/medivize" target="_blank">
-<img src="https://img.shields.io/badge/📁-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Repository">
+<img src="https://img.shields.io/badge/📁-Repository-007bff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub Repository">
+
 </a>
 
 </td>
