@@ -6,9 +6,10 @@
 
 [![Made with React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Powered by Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![AI Model](https://img.shields.io/badge/YOLOv11-AI%20Detection-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/ultralytics/ultralytics)
 [![PWA Ready](https://img.shields.io/badge/PWA-Ready-4285F4?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -24,6 +25,23 @@ lansia, tetapi juga pada kalangan umum seperti pelajar, pekerja, dan masyarakat 
 yang mengonsumsi obat secara mandiri. 
 
 > **💡 Visi Kami:** Menginspirasi perubahan di dunia kesehatan dengan AI yang mudah diakses, karena setiap orang berhak mendapatkan informasi yang akurat, cepat, dan bermakna.
+
+---
+
+## 🌐 **Quick Access Links**
+
+<div align="center">
+
+| Resource | Link |
+|----------|------|
+| 🚀 **Live Demo** | [https://medivize.netlify.app/](https://medivize.netlify.app/) |
+| 💻 **GitHub Repository** | [https://github.com/kyntar/medivize](https://github.com/kyntar/medivize) |
+| 📊 **Dataset** | [Mobile-Captured Pharmaceutical Medication Packages - Mendeley Data](https://data.mendeley.com/datasets/3h5xjvjjgj/1) |
+| 🎥 **Video Presentasi** | [https://youtu.be/wLT9cHba3lA](https://youtu.be/wLT9cHba3lA) |
+| 📖 **Tutorial Penggunaan** | [https://youtu.be/_wBaDtBpS0](https://youtu.be/_wBaDtBpS0) |
+| 🎨 **Slide Presentasi** | [Canva Presentation](https://www.canva.com/design/DAGp8oUa8WQ/Hqu9B6jEVQumcnFz1Rbx4Q/edit?continue_in_browser=true) |
+
+</div>
 
 ---
 
@@ -79,7 +97,7 @@ Pemrosesan gambar dan identifikasi obat dalam hitungan detik
 ### 🎨 **Frontend Architecture**
 ```
 React.js 18.x          → Modern UI Library
-TailwindCSS            → Utility-first CSS Framework  
+TailwindCSS 3.x        → Utility-first CSS Framework  
 React Router           → Client-side Routing
 TensorFlow.js          → Browser-based ML Inference
 PWA Technologies       → Service Workers & Web Manifest
@@ -174,7 +192,7 @@ medivize/
 <summary><b>1️⃣ Clone Repository</b></summary>
 
 ```bash
-git clone https://github.com/your-username/medivize.git
+git clone https://github.com/kyntar/medivize.git
 cd medivize
 ```
 
@@ -213,6 +231,10 @@ JWT_SECRET=your_jwt_secret
 ```bash
 cd frontend
 npm install
+
+# Install TailwindCSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 
 # Start development server
 npm start
@@ -276,8 +298,8 @@ SOURCE database/migrations.sql;
 <td align="center" width="33%">
 
 ### 🌐 **Frontend**
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://medivize.netlify.app/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/)
 
 </td>
 <td align="center" width="33%">
@@ -343,7 +365,7 @@ SOURCE database/migrations.sql;
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
 🏫 Universitas Bengkulu  
-☁️ *Frontend Development *
+☁️ *Frontend Development*
 
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
@@ -366,7 +388,7 @@ SOURCE database/migrations.sql;
 
 **🌟 All Team Members: Active & Contributing**
 
-[![Team Status](https://img.shields.io/badge/Team%20Status-All%20Active-success?style=for-the-badge)](https://github.com)
+[![Team Status](https://img.shields.io/badge/Team%20Status-All%20Active-success?style=for-the-badge)](https://github.com/kyntar/medivize)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 </div>
@@ -379,9 +401,9 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-[![Issues](https://img.shields.io/github/issues/your-username/medivize?style=for-the-badge)](https://github.com/your-username/medivize/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/your-username/medivize?style=for-the-badge)](https://github.com/your-username/medivize/pulls)
-[![Contributors](https://img.shields.io/github/contributors/your-username/medivize?style=for-the-badge)](https://github.com/your-username/medivize/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/kyntar/medivize?style=for-the-badge)](https://github.com/kyntar/medivize/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/kyntar/medivize?style=for-the-badge)](https://github.com/kyntar/medivize/pulls)
+[![Contributors](https://img.shields.io/github/contributors/kyntar/medivize?style=for-the-badge)](https://github.com/kyntar/medivize/graphs/contributors)
 
 </div>
 
@@ -399,9 +421,9 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/medivize?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/medivize?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/medivize?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/kyntar/medivize?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/kyntar/medivize?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kyntar/medivize?style=for-the-badge)
 
 </div>
 
@@ -413,18 +435,6 @@ We welcome contributions from the community! Here's how you can help:
 - 🔐 **Data Encryption**: User data and API communications are encrypted
 - 🚫 **No Personal Data Storage**: We don't store personal information without consent
 - ✅ **GDPR Compliant**: Full compliance with data protection regulations
-
----
-
-## 📄 **License**
-
-<div align="center">
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-</div>
 
 ---
 
@@ -453,9 +463,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If you find MediVize helpful, please consider:
 
-[![Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow?style=for-the-badge&logo=github)](https://github.com/your-username/medivize)
-[![Fork this repo](https://img.shields.io/badge/🍴-Fork%20this%20repo-blue?style=for-the-badge&logo=github)](https://github.com/your-username/medivize/fork)
-[![Share on Twitter](https://img.shields.io/badge/🐦-Share%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20MediVize%20-%20AI-Powered%20Medicine%20Identifier!&url=https://github.com/your-username/medivize)
+[![Star this repo](https://img.shields.io/badge/⭐-Star%20this%20repo-yellow?style=for-the-badge&logo=github)](https://github.com/kyntar/medivize)
+[![Fork this repo](https://img.shields.io/badge/🍴-Fork%20this%20repo-blue?style=for-the-badge&logo=github)](https://github.com/kyntar/medivize/fork)
+[![Share on Twitter](https://img.shields.io/badge/🐦-Share%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20MediVize%20-%20AI-Powered%20Medicine%20Identifier!&url=https://github.com/kyntar/medivize)
 
 ---
 
