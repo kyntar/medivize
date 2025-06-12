@@ -357,17 +357,15 @@ SOURCE database/migrations.sql;
 👨‍💻 **Handika Sukri Husni Harahap**  
 🏫 Institut Teknologi Del  
 📊 *Machine Learning*
-
 </td>
-<td>
 
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
 🏫 Universitas Bengkulu  
 ☁️ *Frontend Development*
 
-</td>
 <td>
+    
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
