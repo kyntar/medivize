@@ -470,34 +470,34 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80">
 
 **MC114D5X1963**  
 👩‍💻 **Emalia Putri Lestari Telaumbanua**  
 🏫 Institut Teknologi Del  
-🧠 *Machine Learning Engineer*  
+🧠 *YOLOv11 & TensorFlow Specialist*  
 ✅ *Active Contributor*
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80">
 
 **MC114D5Y1977**  
 👨‍💻 **Marihot Tambunan**  
 🏫 Institut Teknologi Del  
-🤖 *AI Model Developer*  
+🤖 *Object Detection & AI Model Developer*  
 ✅ *Active Contributor*
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="80">
 
 **MC114D5Y1978**  
 👨‍💻 **Handika Sukri Husni Harahap**  
 🏫 Institut Teknologi Del  
-📊 *Data Science Specialist*  
+📊 *NumPy & Data Processing Specialist*  
 ✅ *Active Contributor*
 
 </td>
@@ -516,13 +516,13 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="120" alt="React Developer">
 
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
 🏫 Universitas Bengkulu  
-🎨 *Frontend Developer & UI/UX Designer*  
-✨ *React.js & TailwindCSS Expert*  
+⚛️ *React.js & TailwindCSS Expert*  
+🎨 *UI/UX Designer & PWA Developer*  
 ✅ *Active Contributor*
 
 </td>
@@ -541,25 +541,25 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Node.js Developer">
 
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
-⚙️ *Backend Developer*  
-🛠️ *API & Database Specialist*  
+🟢 *Node.js & Express.js Developer*  
+🗄️ *MySQL Database Specialist*  
 ✅ *Active Contributor*
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" alt="Full Stack Developer">
 
 **FC012D5Y1245**  
 👨‍💻 **Kyntar Barra Langit Lubis**  
 🏫 Universitas Telkom  
-🔧 *Full-Stack Developer*  
-🚀 *DevOps & Deployment Lead*  
+🔧 *Full-Stack & DevOps Engineer*  
+🚀 *Deployment & Infrastructure Lead*  
 ✅ *Active Contributor*
 
 </td>
