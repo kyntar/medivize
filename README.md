@@ -122,7 +122,8 @@ Teknologi YOLOv11 terdepan untuk deteksi dan klasifikasi obat dengan akurasi tin
 <td align="center" width="33%">
 
 ### 📱 **PWA Experience**
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" height="100">
+
 
 Progressive Web App yang dapat diinstall dan berjalan offline di semua device
 
