@@ -320,17 +320,17 @@ SOURCE database/migrations.sql;
 **MC114D5X1963**  
 👩‍💻 **Emalia Putri Lestari Telaumbanua**  
 🏫 Institut Teknologi Del  
-🔬 *ML Engineer & Data Scientist*
+🔬 *Machine Learning*
 
 **MC114D5Y1977**  
 👨‍💻 **Marihot Tambunan**  
 🏫 Institut Teknologi Del  
-🧠 *AI Model Developer*
+🧠 *Machine Learning*
 
 **MC114D5Y1978**  
 👨‍💻 **Handika Sukri Husni Harahap**  
 🏫 Institut Teknologi Del  
-📊 *Data Analysis & Model Optimization*
+📊 *Machine Learning*
 
 </td>
 <td>
@@ -338,12 +338,12 @@ SOURCE database/migrations.sql;
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
 🏫 Universitas Bengkulu  
-☁️ *Cloud Infrastructure & DevOps*
+☁️ *Frontend Development *
 
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
-⚙️ *Backend Development & API*
+⚙️ *Backend Development*
 
 </td>
 <td>
@@ -351,7 +351,7 @@ SOURCE database/migrations.sql;
 **FC012D5Y1245**  
 👨‍💻 **Kyntar Barra Langit Lubis**  
 🏫 Universitas Telkom  
-📱 *Frontend & Mobile Development*
+📱 *Backend Development*
 
 </td>
 </tr>
