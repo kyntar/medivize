@@ -519,8 +519,7 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="120" alt="React Developer">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40">
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
 🏫 Universitas Bengkulu  
@@ -544,13 +543,14 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Node.js Developer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40">
 
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
-🟢 *Node.js & Express.js Developer*  
+🟢 *Node.js & Express.js REST API*  
 🗄️ *MySQL Database Specialist*  
+🗄️ *File upload & processing
 ✅ *Active Contributor*
 
 </td>
@@ -561,8 +561,9 @@ Access comprehensive medicine information and usage guidelines
 **FC012D5Y1245**  
 👨‍💻 **Kyntar Barra Langit Lubis**  
 🏫 Universitas Telkom  
-🔧 *Full-Stack & DevOps Engineer*  
-🚀 *Deployment & Infrastructure Lead*  
+🟢 *Node.js & Express.js REST API*  
+🗄️ *MySQL Database Specialist*  
+🗄️ *File upload & processing
 ✅ *Active Contributor*
 
 </td>
