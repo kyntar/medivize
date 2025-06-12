@@ -16,7 +16,7 @@
     "api",
     "express"
   ],
-  "author": "Your Name",
+  "author": "CC25-CF316 - MediVize",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.9.0",
