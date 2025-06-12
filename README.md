@@ -1,4 +1,4 @@
-# 💊 MediVize – AI-Powered Medicine Identifier
+![image](https://github.com/user-attachments/assets/e05a6e06-abbc-4c8e-8311-6d317fb69466)# 💊 MediVize – AI-Powered Medicine Identifier
 
 <div align="center">
 
@@ -479,6 +479,9 @@ Access comprehensive medicine information and usage guidelines
 👩‍💻 **Emalia Putri Lestari Telaumbanua**  
 🏫 Institut Teknologi Del  
 🧠 *YOLOv11 & TensorFlow Specialist*  
+🧠 *NumPy untuk preprocessing*  
+🧠 *Data augmentation techniques*
+🧠 *Model evaluation & optimization*
 ✅ *Active Contributor*
 
 </td>
@@ -488,8 +491,11 @@ Access comprehensive medicine information and usage guidelines
 
 **MC114D5Y1977**  
 👨‍💻 **Marihot Tambunan**  
-🏫 Institut Teknologi Del  
-🤖 *Object Detection & AI Model Developer*  
+🏫 Institut Teknologi Del   
+🤖 *YOLOv11 & TensorFlow Specialist*  
+🤖 *NumPy untuk preprocessing*  
+🤖 *Data augmentation techniques*
+🤖 *Model evaluation & optimization*
 ✅ *Active Contributor*
 
 </td>
@@ -500,7 +506,10 @@ Access comprehensive medicine information and usage guidelines
 **MC114D5Y1978**  
 👨‍💻 **Handika Sukri Husni Harahap**  
 🏫 Institut Teknologi Del  
-📊 *NumPy & Data Processing Specialist*  
+📊 *YOLOv11 & TensorFlow Specialist*  
+📊 *NumPy untuk preprocessing*  
+📊 *Data augmentation techniques*
+📊 *Model evaluation & optimization*
 ✅ *Active Contributor*
 
 </td>
@@ -551,18 +560,20 @@ Access comprehensive medicine information and usage guidelines
 🏫 Universitas Bengkulu  
 🟢 *Node.js & Express.js Developer*  
 🗄️ *MySQL Database Specialist*  
+🚀 *File upload & processing*
 ✅ *Active Contributor*
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" alt="Full Stack Developer">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Express.js Developer">
 
 **FC012D5Y1245**  
 👨‍💻 **Kyntar Barra Langit Lubis**  
 🏫 Universitas Telkom  
-🔧 *Full-Stack & DevOps Engineer*  
-🚀 *Deployment & Infrastructure Lead*  
+🟢 *Node.js & Express.js Developer*  
+🗄️ *MySQL Database Specialist*  
+🚀 *File upload & processing*
 ✅ *Active Contributor*
 
 </td>
