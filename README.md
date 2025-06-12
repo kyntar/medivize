@@ -85,8 +85,6 @@ PWA Technologies       → Service Workers & Web Manifest
 Node.js + Express.js   → REST API Server
 MySQL Database         → Relational Data Storage
 Multer Middleware      → File Upload Handling
-JWT Authentication     → Secure User Sessions
-dotenv Configuration   → Environment Management
 ```
 
 ### 🤖 **AI/ML Pipeline**
