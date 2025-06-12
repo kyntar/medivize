@@ -544,8 +544,7 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="50%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" alt="Express.js Developer">
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="100" alt="Express.js Developer">
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
 🏫 Universitas Bengkulu  
