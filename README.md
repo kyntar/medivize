@@ -519,7 +519,7 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="100%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Node.js Developer">
 
 **FC189D5X0794**  
 👩‍💻 **Keysa Maqfirah**  
@@ -544,7 +544,7 @@ Access comprehensive medicine information and usage guidelines
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Node.js Developer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" alt="Express.js Developer">
 
 **FC189D5X0808**  
 👩‍💻 **Federika Butar Butar**  
